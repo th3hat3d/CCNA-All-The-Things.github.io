@@ -1,3 +1,5 @@
 site_name: CCNA All The Things
 theme:
  name: material
+ palette:
+  scheme: slate
